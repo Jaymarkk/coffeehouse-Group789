@@ -18,8 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # Group 789 This project was developed collaboratively by:
 Jaymark Alano 
-Gerald Dela Cruz
-Dan Mutcha
+,Gerald Dela Cruz
+,Dan Mutcha
 
 How to Run
 Clone the repo:
